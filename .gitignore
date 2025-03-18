@@ -1,0 +1,15 @@
+## .NET specific
+bin/
+obj/
+.vs/
+*.user
+*.suo
+_ReSharper*/
+*.sln.DotSettings.user
+*.pubxml
+project.lock.json
+artifacts/
+
+## Node/npm (if you have frontend code)
+node_modules/
+npm-debug.log 

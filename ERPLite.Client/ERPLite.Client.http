@@ -1,0 +1,6 @@
+@ERPLite.Client_HostAddress = http://localhost:5144
+
+GET {{ERPLite.Client_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
